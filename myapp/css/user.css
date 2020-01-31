@@ -1,0 +1,24 @@
+#promo_video {
+  margin: 0 auto; }
+
+@media (min-width: 992px) {
+  #promo_video {
+    width: 300px; } }
+
+@media (max-width: 992px) {
+  #promo_video {
+    width: 100%; } }
+
+#creators {
+  padding: 3rem 0; }
+
+#above_fold {
+  padding: 3rem 0; }
+
+.btn-primary {
+  color: #fff;
+  background-color: orange; }
+
+.btn {
+  color: #fff;
+  background-color: orange; }
